@@ -4,7 +4,7 @@
 ## Slide Decks
 
 ### Passwords and Password Managers
-*Published on 6 Dec 2021*
+*Published on 6 Dec 2021* 
 https://cybersec.help/slides/4/cybersecurity/passwords-and-password-managers
 
 ### PII, Personal Data, and Regulations
