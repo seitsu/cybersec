@@ -3,6 +3,14 @@
 
 ## Slide Decks
 
+### Bug Bounty Program ###
+*Published on 25 Apr 2022*  
+https://cybersec.help/slides/6/cybersecurity/bug-bounty-program
+
+### Multi-Factor Authentication / 2FA ###
+*Published on 1 Apr 2022*  
+https://cybersec.help/slides/5/cybersecurity/multi-factor-authentication-2fa
+
 ### Passwords and Password Managers
 *Published on 6 Dec 2021*  
 https://cybersec.help/slides/4/cybersecurity/passwords-and-password-managers
